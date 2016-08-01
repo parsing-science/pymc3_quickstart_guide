@@ -1,0 +1,6 @@
+# Virtual Environments
+venv/
+
+#Compiled files
+*.pyc
+*.so
