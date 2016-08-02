@@ -1,0 +1,7 @@
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+unidecode
+git+https://github.com/pymc-devs/pymc3
