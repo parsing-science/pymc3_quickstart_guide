@@ -24,6 +24,8 @@ Step 5: Install requirements
 
 ``` $ pip install -r requirements.txt```
 
+Note: you should use a version of pip > 8.1, if you don't that, update pip via `pip install --upgrade pip`
+
 Step 6: Start your local Jupyter server
 
 ``` $ jupyter notebook```
