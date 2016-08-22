@@ -1,9 +1,0 @@
-ipython>=4.1.1
-notebook
-numpy
-scipy
-pandas>=0.18
-matplotlib
-scikit-learn
-unidecode
-git+https://github.com/pymc-devs/pymc3

@@ -1,0 +1,6 @@
+name: pymc3_quickstart_guide
+dependencies: 
+- anaconda
+pip:
+- unidecode
+- git+https://github.com/pymc-devs/pymc3
