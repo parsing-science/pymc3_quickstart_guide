@@ -2,6 +2,9 @@
 A PyData Chicago tutorial
 8/26/16
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/tonyfast/pymc3_quickstart_guide)
+
+
 Follow the steps below to get set up.
 
 Step 1: Clone this repo
