@@ -2,6 +2,9 @@
 A PyData Chicago tutorial
 8/26/16
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/tonyfast/pymc3_quickstart_guide)
+
+
 Follow the steps below to get set up.
 
 Step 1: Clone this repo
@@ -10,22 +13,16 @@ Step 2: Go into the directory of this repo in your terminal
 
 ``` $ cd pymc3_quickstart_guide```
 
-Step 3: Create a virtual environment
+Step 3: Create a new conda environment
 
-``` $ virtualenv venv```
+``` $ conda env create```
 
 Step 4: Activate your virtual environment
 
-``` $ source venv/bin/activate```
+``` $ source activate pymc3_quickstart_guide```
 
-(To deactivate, type `deactivate`)
+(To deactivate, type `deactivate source`)
 
-Step 5: Install requirements
-
-``` $ pip install -r requirements.txt```
-
-Note: you should use a version of pip > 8.1, If your pip is older, update pip via `pip install --upgrade pip`
-
-Step 6: Start your local Jupyter server
+Step 5: Start your local Jupyter server
 
 ``` $ jupyter notebook```
