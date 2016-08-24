@@ -10,6 +10,26 @@ Step 2: Go into the directory of this repo in your terminal
 
 ``` $ cd pymc3_quickstart_guide```
 
+# Conda Instructions:
+
+Note: if you want to use python 2.7, add this line `- python=2.7` to the dependencies in the yml file.
+
+Step 3: Create a new conda environment
+
+``` $ conda env create```
+
+Step 4: Activate your virtual environment
+
+``` $ source activate pymc3_quickstart_guide```
+
+(To deactivate, type `deactivate source`)
+
+Step 5: Start your local Jupyter server
+
+``` $ jupyter notebook```
+
+# virtualenv and pip instructions
+
 Step 3: Create a virtual environment
 
 ``` $ virtualenv venv```
