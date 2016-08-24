@@ -10,7 +10,7 @@ Step 2: Go into the directory of this repo in your terminal
 
 ``` $ cd pymc3_quickstart_guide```
 
-# Conda Instructions:
+### Conda Instructions:
 
 Note: if you want to use python 2.7, add this line `- python=2.7` to the dependencies in the yml file.
 
@@ -28,7 +28,7 @@ Step 5: Start your local Jupyter server
 
 ``` $ jupyter notebook```
 
-# virtualenv and pip instructions
+### virtualenv and pip instructions
 
 Step 3: Create a virtual environment
 
