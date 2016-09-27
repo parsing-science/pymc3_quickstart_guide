@@ -1,6 +1,7 @@
 # A Quickstart Guide to PyMC3
 A PyData Chicago tutorial
 8/26/16
+([Video](https://www.youtube.com/watch?v=rZvro4-nFIk))
 
 Follow the steps below to get set up.
 
